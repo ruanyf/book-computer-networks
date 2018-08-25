@@ -1,10 +1,10 @@
 ## Computer Networks: A Systems Approach
 
-![](./cover_samll.jpg)
+![](cover_samll.jpg)
 
 These free ebooks are built upon the source from [SystemsApproach/book](https://github.com/SystemsApproach/book).
 
-Read online [https://book.systemsapproach.org]（https://book.systemsapproach.org）
+Read online [https://book.systemsapproach.org](https://book.systemsapproach.org)
 
 ## License
 
